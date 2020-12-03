@@ -1,6 +1,8 @@
-'''
-sarah creat 15/09/2020
-'''
+"""
+Created on Thu Oct 29 15:26:04 2020
+
+@author: sarah
+"""
 # -*- coding: utf-8 -*-
 '''
 	Algorithme de Génétique appliquée au problème du voyageur de commerce
@@ -9,8 +11,6 @@ sarah creat 15/09/2020
 
 
 import numpy as np
-#import operator
-#import Graph2
 import math
 import random
 #import copy
