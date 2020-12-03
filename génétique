@@ -11,8 +11,6 @@ Created on Thu Oct 29 15:26:04 2020
 
 
 import numpy as np
-#import operator
-#import Graph2
 import math
 import random
 #import copy
